@@ -19,7 +19,7 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa evoluir
 ## 🎯 Formação
 
 - 👨‍🎓 **Desenvolvimento Web** — *Programadores do Amanhã* (conclusão em 2025)  
-- 🎓 **Análise e Desenvolvimento de Sistemas** — *UNISUAM* (Cursando)
+
 
 ---
 
