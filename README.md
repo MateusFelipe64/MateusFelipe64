@@ -20,7 +20,6 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa evoluir
 
 - 👨‍🎓 **Desenvolvimento Web** — *Programadores do Amanhã* (conclusão em 2025)  
 
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -45,9 +44,8 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa evoluir
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/seu-usuario">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MateusFelipe64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFelipe64&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -56,6 +54,7 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa evoluir
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-felipe-dev/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusfsh42@gmail.com)
+
 ---
 
 ## 💡 Curiosidades
@@ -69,10 +68,11 @@ Busco minha **primeira oportunidade na área de tecnologia**, onde possa evoluir
 
 <div align="center">
   
-  ![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MateusFelipe64/MateusFelipe64/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-
-![Snake animation](https://github.com/MateusFelipe64/MateusFelipe64/blob/output/github-contribution-grid-snake.svg)
-
+<!---
+MateusFelipe64/MateusFelipe64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
